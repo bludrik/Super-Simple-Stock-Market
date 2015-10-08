@@ -1,0 +1,7 @@
+﻿#StockSymbol	#Type		#LastDividend	#FixedDividend	#ParValue	#Price		#DividendYield	#P/ERatio
+TEA		COMMON		0		0		100		50		0		0
+POP		COMMON		8		0		100		35		0.228		4.375
+ALE		COMMON		23		0		60		2500		0.009		108.695
+GIN		PREF		8		2		100		4000		0.05		500
+JOE		COMMON		13		0		250		45		0.288		3.461
+#geometricsMean:239.4694

@@ -1,0 +1,8 @@
+﻿#Quantity	#Price		#Indicator
+300		70		SELL
+45		20		SELL
+50		20		SELL
+1000		27.5		BUY
+500		30.5		BUY
+100		40		SELL
+#volumeWeightedStockPrice of the last 5 trades:28.702064896
